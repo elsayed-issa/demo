@@ -1,24 +1,6 @@
 # Basic Linear Algebra and Numpy Tutorial
 
 
-- Both basic knowledge of matrix processes and numpy are important to understand for linguists who practice machine learning
-
-## Assignment Goals
-The goal of this assignment is to familiarize yourself with:
-
-1. Parsing HTML data
-2. Text classification using ngram language models
-3. Text classification using supervised machine learning algorithms
-4. Tools for sentiment analysis
-
-The assignment combines tutorial components, with learning exercises that you must complete and submit. The learning exercise sections are clearly demarcated within the assignments.
-
-## Before you start
-1. PULL THE LATEST VERSION OF THE `course-materials` REPOSITORY, AND COPY `homework/HW2/` INTO THE CORRESPONDING DIRECTORY OF YOUR SUBMISSION FOLDER
-2. CREATE AND ATTACH TO A VIRTUAL ENVIRONMENT, AND INSTALL THE REQUIREMENTS IN `requirements.txt`
-3. IMPORT THE COURSE UTILITIES BY RUNNING THE CODE BLOCK BELOW
-
-
 ### Notation
 1. s: scalar
 2. v: vector
